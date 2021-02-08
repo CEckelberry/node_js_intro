@@ -1,0 +1,15 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstNodeFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cole",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "faker": "^5.3.1"
+  }
+}
